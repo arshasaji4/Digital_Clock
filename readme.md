@@ -2,6 +2,8 @@
 
 A simple and responsive Digital Clock project built using HTML, CSS, and JavaScript. The clock displays the current time in real-time with hours, minutes, and seconds. This project helps beginners understand DOM manipulation, JavaScript timing functions, and responsive UI design.
 
+## live at
+[live@](digitalclocxz.netlify.app)
 
 ## Features
 - Real-time clock updates
@@ -14,3 +16,7 @@ A simple and responsive Digital Clock project built using HTML, CSS, and JavaScr
 - HTML5
 - CSS3
 - JavaScript
+
+## Sample
+
+![image](digitalclock.png)
